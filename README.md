@@ -1,2 +1,2 @@
 # exercicios-js
-Exercicos curso de Web Moderno
+Exercicios curso de Web Moderno
