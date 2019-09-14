@@ -1,7 +1,9 @@
 function Pessoa(){
     this.idade = 0
+
+    const self = this
     setInterval(function(){
-        this.idade++
+        self.idade++
         console.log(this.idade)
     }, 1000)
 }
